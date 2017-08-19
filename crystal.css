@@ -1,0 +1,11 @@
+.rules {border-style: solid; clear: both;}
+
+#winsLosses {float:right; width:35%;margin-right: 51%;border-style:solid;margin-top:1%;width: 15% }
+
+#targetNumber {float: left; width:35%;border-style:solid;margin-left: -65%; margin-top: 12%;width: 25%}
+
+#stones {width: 90%; margin-top: 23%;margin-left: 2%}
+
+#totalScore {border-style: solid}
+
+#ruby {height: 98%}
